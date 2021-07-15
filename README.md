@@ -1,5 +1,6 @@
-https://5acf002ff619.ngrok.io
-
-https://1cadaf3a9a47.ngrok.io
-
-https://5acf002ff619.ngrok.io 
+install python
+git clone https://github.com/ExpertAnonymous/PhoneInfoga
+cd PhoneInfoga
+bash phoneinfoga.sh
+cd PhoneInfoga
+python phoneinfoga.py -n +553658159057
